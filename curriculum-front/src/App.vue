@@ -24,11 +24,13 @@
       </div>
     </div>
   </nav>
-  <div class="container mx-auto mt-4 pt-16 bg-gray-100 h-screen">
+  <div class="container mx-auto mt-4 pt-16 bg-gray-100 h-full">
     <router-view></router-view>
   </div>
 </template>
 
 <style>
-
+  h1 {
+    font-family: 'Roboto', sans-serif;
+  }
 </style>

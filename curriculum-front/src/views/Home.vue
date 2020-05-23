@@ -23,9 +23,3 @@
     
   }
 </script>
-
-<style scoped>
-  h1 {
-    font-family: 'Roboto', sans-serif;
-  }
-</style>
